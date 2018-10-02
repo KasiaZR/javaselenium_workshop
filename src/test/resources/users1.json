@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "Esther",
+    "lastName": "Martinez",
+    "gender": "F",
+    "age": 32,
+    "email": "esthermartinez@digial.com",
+    "id": "41fd708e-da90-47ef-86d5-48b7fe0698e2"
+  },
+  {
+    "firstName": "Faye",
+    "lastName": "Swanson",
+    "gender": "F",
+    "age": 27,
+    "email": "fayeswanson@digial.com",
+    "id": "5f1aee9e-d8be-4362-90f2-f355cf1673fe"
+  },
+  {
+    "firstName": "Tiffany",
+    "lastName": "Ferguson",
+    "gender": "F",
+    "age": 26,
+    "email": "tiffanyferguson@digial.com",
+    "id": "906099df-c644-4d16-8495-2c7a81946c31"
+  },
+  {
+    "firstName": "Flynn",
+    "lastName": "Castro",
+    "gender": "M",
+    "age": 30,
+    "email": "flynncastro@digial.com",
+    "id": "0de83a18-4527-49c6-ada1-0b981db2a992"
+  },
+  {
+    "firstName": "Keller",
+    "lastName": "Hardin",
+    "gender": "M",
+    "age": 22,
+    "email": "kellerhardin@digial.com",
+    "id": "1590b383-3196-4d3b-9d3e-e0ac307b0783"
+  },
+  {
+    "firstName": "Best",
+    "lastName": "Leon",
+    "gender": "M",
+    "age": 35,
+    "email": "bestleon@digial.com",
+    "id": "12dd7912-d299-4dbb-8b12-bc077893a3c1"
+  },
+  {
+    "firstName": "Josefina",
+    "lastName": "Case",
+    "gender": "F",
+    "age": 31,
+    "email": "josefinacase@digial.com",
+    "id": "6ec74b1a-022a-49a9-94bf-66036d7a2262"
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Owens",
+    "gender": "F",
+    "age": 28,
+    "email": "aishaowens@digial.com",
+    "id": "9e6cf9a3-4696-4edb-8d40-858f13f9451d"
+  },
+  {
+    "firstName": "Sullivan",
+    "lastName": "Tyler",
+    "gender": "M",
+    "age": 30,
+    "email": "sullivantyler@digial.com",
+    "id": "db9cfbc5-9603-4f1d-a51f-18d2ceca69bb"
+  },
+  {
+    "firstName": "Weeks",
+    "lastName": "Logan",
+    "gender": "M",
+    "age": 31,
+    "email": "weekslogan@digial.com",
+    "id": "060537db-3433-4e6a-b157-e3df27436776"
+  },
+  {
+    "firstName": "Lamb",
+    "lastName": "Combs",
+    "gender": "M",
+    "age": 30,
+    "email": "lambcombs@digial.com",
+    "id": "f900c94a-4965-43df-a5a1-4d46c5fe9459"
+  },
+  {
+    "firstName": "Hendricks",
+    "lastName": "Jensen",
+    "gender": "M",
+    "age": 21,
+    "email": "hendricksjensen@digial.com",
+    "id": "58e36a28-4340-4690-8dc5-2e527dbdc00e"
+  },
+  {
+    "firstName": "Cole",
+    "lastName": "Fisher",
+    "gender": "M",
+    "age": 31,
+    "email": "colefisher@digial.com",
+    "id": "df5d1043-08a7-4787-b7c2-7e70936d470d"
+  },
+  {
+    "firstName": "Cassie",
+    "lastName": "Church",
+    "gender": "F",
+    "age": 32,
+    "email": "cassiechurch@digial.com",
+    "id": "ab982f1b-debd-47bf-8378-fc4966f89c00"
+  },
+  {
+    "firstName": "Dotson",
+    "lastName": "Patton",
+    "gender": "M",
+    "age": 37,
+    "email": "dotsonpatton@digial.com",
+    "id": "e670fd25-6b6e-4e50-a29f-537e03921632"
+  }
+]

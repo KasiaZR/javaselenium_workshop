@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Shaw",
+    "lastName": "Adams",
+    "gender": "M",
+    "age": 31,
+    "email": "shawadams@digial.com",
+    "id": "3ecd6cdd-efca-4064-8a75-3f9c390394aa"
+  },
+  {
+    "firstName": "Cole",
+    "lastName": "Cortez",
+    "gender": "M",
+    "age": 32,
+    "email": "colecortez@digial.com",
+    "id": "53dd19ed-f3d4-4c67-b511-e58e1d04dd3d"
+  },
+  {
+    "firstName": "Gale",
+    "lastName": "Flowers",
+    "gender": "F",
+    "age": 33,
+    "email": "galeflowers@digial.com",
+    "id": "79f74e5-8cd5-4712-8cf1-ea1151fc0962"
+  }
+]

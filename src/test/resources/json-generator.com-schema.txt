@@ -1,0 +1,13 @@
+https://www.json-generator.com/
+
+[
+  '{{repeat(25)}}',
+  {
+    firstName: '{{firstName()}}',
+    lastName: '{{surname()}}',
+    gender: '{{gender().substring(0,1).toUpperCase()}}',
+    age: '{{integer(20, 40)}}',
+    email: '{{email()}}',
+    id: '{{guid()}}'
+  }
+]
